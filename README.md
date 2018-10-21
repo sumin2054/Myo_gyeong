@@ -1,6 +1,7 @@
 # Myo_gyeong
 
-<!--activity_main.xml text에서 -->
+
+   <!--activity_main.xml text에서 -->
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -10,8 +11,7 @@
     <!--배경이미지설정 -->
     android:background="@drawable/d_0003">
     tools:context=".MainActivity">
-
-    <ImageButton
+ <ImageButton
         android:id="@+id/button"
         android:layout_width="35dp"
         android:layout_height="26dp"
